@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklost_notch=self.webpackChunklost_notch||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Church Pond","permalink":"/blog/church-pond","unlisted":false,"date":"2026-10-19T00:00:00.000Z"}]}')}}]);

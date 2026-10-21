@@ -26,5 +26,20 @@
             <category>White Mountains</category>
             <category>Carrigain Region</category>
         </item>
+        <item>
+            <title><![CDATA[Monadnock after a Nor'easter]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/monadnock-under-snow</link>
+            <guid>https://your-docusaurus-site.example.com/blog/monadnock-under-snow</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Yesterday, a late season nor'easter dumped more than two feet of snow on the Monadnock region. The entire summit of Monadnock is under a blanket of white. If you look closely, you can see a lone hiker near the top of the mountain.]]></description>
+            <content:encoded><![CDATA[<p>Yesterday, a late season nor'easter dumped more than two feet of snow on the Monadnock region. The entire summit of Monadnock is under a blanket of white. If you look closely, you can see a lone hiker near the top of the mountain.</p>
+<div class="text--center"><p><img decoding="async" loading="lazy" alt="Monadnock summit" src="https://your-docusaurus-site.example.com/assets/images/summit-2834ae9af50cb011cc6e6187eb090b0a.jpg" width="512" height="640" class="img_ev3q"></p></div>
+<!-- -->
+<p>The high winds sculpted dramatic shapes in the snow.</p>
+<p><img decoding="async" loading="lazy" alt="Wind sculpted snow" src="https://your-docusaurus-site.example.com/assets/images/sculpted-snow-b3aa648927cdc41d613ffbdf6ba7c0f7.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>The underlying rock emerges in places to remind us the snow is temporary. Spring is just around the corner. The melting snow will help the alpine plants thrive.</p>
+<p><img decoding="async" loading="lazy" alt="Detail" src="https://your-docusaurus-site.example.com/assets/images/detail-c4ad455d71429f5330f465d8f77cf16b.jpg" width="1000" height="800" class="img_ev3q"></p>]]></content:encoded>
+            <category>Mt. Monadnock</category>
+        </item>
     </channel>
 </rss>
