@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>Lost Notch Blog</title>
+    <updated>2026-10-19T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>Lost Notch Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Church Pond]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/church-pond</id>
+        <link href="https://your-docusaurus-site.example.com/blog/church-pond"/>
+        <updated>2026-10-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Church Pond is a little more than a mile off the Kangamagus Highway, but it feels much more remote. The usual route to the pond is from Camp Passaconaway via the Church Pond Loop Trail. While this used to be a loop, the east section of the trail is permanently closed, now making it an out-and-back route.]]></summary>
+        <content type="html"><![CDATA[<p>Church Pond is a little more than a mile off the Kangamagus Highway, but it feels much more remote. The usual route to the pond is from Camp Passaconaway via the Church Pond Loop Trail. While this used to be a loop, the east section of the trail is permanently closed, now making it an out-and-back route.</p>
+<p>After walking over bog bridges through a beautiful marsh, you arrive at a knoll on the east side of the pond. Follow one of the herd paths down to the shore for some great views especially to the southwest. Here is a dramatic view of Mt. Potash (left) rising on the other side of the Kangamagus. To the right of Mt. Potash is the valley of Sabbaday Brook with the Sleepers in the distance.</p>
+<p><img decoding="async" loading="lazy" alt="Mt. Potash" src="https://your-docusaurus-site.example.com/assets/images/potash-449bf668c05c5548823b755e5b18cb68.jpg" width="1250" height="750" class="img_ev3q"></p>
+<!-- -->
+<p>Swing to the right just a little and North Tripyramid comes into view.</p>
+<p><img decoding="async" loading="lazy" alt="North Tripyramid" src="https://your-docusaurus-site.example.com/assets/images/tripyramid-f757efca516041a19f7fb0d7a304c90d.jpg" width="1250" height="750" class="img_ev3q"></p>
+<p>Although it's definitely past peak foliage, the tamaracks are almost neon yellow this time of year.</p>
+<p><img decoding="async" loading="lazy" alt="Tamaracks" src="https://your-docusaurus-site.example.com/assets/images/tamaracks-45f5b1329b5c7b8f00714826ce6dce86.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>Tamaracks are common in New Hampshire, but they almost never dominate the landscape. It's always a pleasant surprise to catch the tamarack show after most hardwoods have dropped their leaves.</p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Carrigain Region" term="Carrigain Region"/>
+    </entry>
+</feed>
