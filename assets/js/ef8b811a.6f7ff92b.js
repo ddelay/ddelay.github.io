@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklost_notch=self.webpackChunklost_notch||[]).push([["416"],{6600(e){e.exports=JSON.parse('{"authors":[{"name":"Lost Notch Caretaker","title":"Hiker, Trail Adopter, Photographer, Writer","url":"/caretaker","imageURL":"/img/caretaker.png","key":"caretaker","page":null,"count":5}]}')}}]);

@@ -1,50 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://lostnotch.com/blog</id>
     <title>Lost Notch Blog</title>
     <updated>2026-10-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://lostnotch.com/blog"/>
     <subtitle>Lost Notch Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/img/favicon.png</icon>
+    <icon>https://lostnotch.com/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Church Pond]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/church-pond</id>
-        <link href="https://your-docusaurus-site.example.com/blog/church-pond"/>
+        <id>https://lostnotch.com/blog/church-pond</id>
+        <link href="https://lostnotch.com/blog/church-pond"/>
         <updated>2026-10-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Church Pond is a little more than a mile off the Kangamagus Highway, but it feels much more remote. The usual route to the pond is from Camp Passaconaway via the Church Pond Loop Trail. While this used to be a loop, the east section of the trail is permanently closed, now making it an out-and-back route.]]></summary>
         <content type="html"><![CDATA[<p>Church Pond is a little more than a mile off the Kangamagus Highway, but it feels much more remote. The usual route to the pond is from Camp Passaconaway via the Church Pond Loop Trail. While this used to be a loop, the east section of the trail is permanently closed, now making it an out-and-back route.</p>
 <p>After walking over bog bridges through a beautiful marsh, you arrive at a knoll on the east side of the pond. Follow one of the herd paths down to the shore for some great views especially to the southwest. Here is a dramatic view of Mt. Potash (left) rising on the other side of the Kangamagus. To the right of Mt. Potash is the valley of Sabbaday Brook with the Sleepers in the distance.</p>
-<p><img decoding="async" loading="lazy" alt="Mt. Potash" src="https://your-docusaurus-site.example.com/assets/images/potash-449bf668c05c5548823b755e5b18cb68.jpg" width="1250" height="750" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Mt. Potash" src="https://lostnotch.com/assets/images/potash-449bf668c05c5548823b755e5b18cb68.jpg" width="1250" height="750" class="img_ev3q"></p>
 <!-- -->
 <p>Swing to the right just a little and North Tripyramid comes into view.</p>
-<p><img decoding="async" loading="lazy" alt="North Tripyramid" src="https://your-docusaurus-site.example.com/assets/images/tripyramid-f757efca516041a19f7fb0d7a304c90d.jpg" width="1250" height="750" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="North Tripyramid" src="https://lostnotch.com/assets/images/tripyramid-f757efca516041a19f7fb0d7a304c90d.jpg" width="1250" height="750" class="img_ev3q"></p>
 <p>Although it's definitely past peak foliage, the tamaracks are almost neon yellow this time of year.</p>
-<p><img decoding="async" loading="lazy" alt="Tamaracks" src="https://your-docusaurus-site.example.com/assets/images/tamaracks-45f5b1329b5c7b8f00714826ce6dce86.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tamaracks" src="https://lostnotch.com/assets/images/tamaracks-45f5b1329b5c7b8f00714826ce6dce86.jpg" width="1200" height="800" class="img_ev3q"></p>
 <p>Tamaracks are common in New Hampshire, but they almost never dominate the landscape. It's always a pleasant surprise to catch the tamarack show after most hardwoods have dropped their leaves.</p>]]></content>
         <author>
             <name>Lost Notch Caretaker</name>
-            <uri>/</uri>
+            <uri>/caretaker</uri>
         </author>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Carrigain Region" term="Carrigain Region"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Guinea Pond]]></title>
+        <id>https://lostnotch.com/blog/guinea-pond</id>
+        <link href="https://lostnotch.com/blog/guinea-pond"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guinea Pond is located in the Sandwich Range Wilderness, just south of Sandwich Mountain. Black Mountain, a subpeak of Sandwich Mountain, looms over the pond.]]></summary>
+        <content type="html"><![CDATA[<p>Guinea Pond is located in the Sandwich Range Wilderness, just south of Sandwich Mountain. Black Mountain, a subpeak of Sandwich Mountain, looms over the pond.</p>
+<p><img decoding="async" loading="lazy" alt="Black Mountain" src="https://lostnotch.com/assets/images/black-mountain-871a004efb41dd9960495328eb8c3146.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>To the right of Black Mountain is Sandwich Dome, the true summit of Sandwich Mountain.</p>
+<p><img decoding="async" loading="lazy" alt="Sandwich Dome" src="https://lostnotch.com/assets/images/sandwich-dome-ff2122f3cdfbee175dd21686a6da55db.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>Zooming out a bit, you can see how truly massive Sandwich Mountain is. From this angle, it looks like an entire mountain range, but geographically speaking, it is a single mountain.</p>
+<p><img decoding="async" loading="lazy" alt="sandwich-mountain" src="https://lostnotch.com/assets/images/sandwich-mountain-ae8a37cb441625af14454240919d082c.jpg" width="1200" height="800" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Waterville Region" term="Waterville Region"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine Garden]]></title>
+        <id>https://lostnotch.com/blog/alpine-garden</id>
+        <link href="https://lostnotch.com/blog/alpine-garden"/>
+        <updated>2025-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Alpine Garden is an area above treeline on Mt. Washington's eastern slope between Tuckerman Ravine and Huntington Ravine. It's a place where several varieties of alpine plants produce flowers in June and into July. June 9 is early for the flowers of some varieties, but Lapland Rosebay (pink) and Diapensia (white) are blooming on the edge of Tuckerman Ravine.]]></summary>
+        <content type="html"><![CDATA[<p>The Alpine Garden is an area above treeline on Mt. Washington's eastern slope between Tuckerman Ravine and Huntington Ravine. It's a place where several varieties of alpine plants produce flowers in June and into July. June 9 is early for the flowers of some varieties, but Lapland Rosebay (pink) and Diapensia (white) are blooming on the edge of Tuckerman Ravine.</p>
+<p><img decoding="async" loading="lazy" alt="The edge of Tuckerman Ravine" src="https://lostnotch.com/assets/images/edge-of-tuckerman-b6614f8ac285e2ad126170407451d5a4.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>The high winds of the Alpine Garden cause the stunted trees to twist into strange shapes or Krummholz.</p>
+<p><img decoding="async" loading="lazy" alt="Krummholz" src="https://lostnotch.com/assets/images/krummholz-39093cf8f56ad4176f1ffc56f4143c6e.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>Despite the difficult conditions, Alpine Azalea is thriving. This plant is in a little nook on the leeward side of a small rock.</p>
+<p><img decoding="async" loading="lazy" alt="Alpine Azalea" src="https://lostnotch.com/assets/images/alpine-azalea-7faa4d87705714373bd2807d81b836fa.jpg" width="1000" height="800" class="img_ev3q"></p>
+<p>And there are large patches of Diapensia and Lapland Rosebay everywhere you look.</p>
+<p><img decoding="async" loading="lazy" alt="Alpine Garden" src="https://lostnotch.com/assets/images/garden-5b9c0270e4d59a7094944370ee38a033.jpg" width="1000" height="800" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Washington Region" term="Washington Region"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mt. Crawford]]></title>
+        <id>https://lostnotch.com/blog/mt-crawford</id>
+        <link href="https://lostnotch.com/blog/mt-crawford"/>
+        <updated>2023-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's just over 3100 feet high, but Mt. Crawford has some of the best views in the White Mountains. Crawford Notch is just to the northwest.]]></summary>
+        <content type="html"><![CDATA[<p>It's just over 3100 feet high, but Mt. Crawford has some of the best views in the White Mountains. Crawford Notch is just to the northwest.</p>
+<p><img decoding="async" loading="lazy" alt="Crawford Notch" src="https://lostnotch.com/assets/images/crawford-notch-f4eb0b41c2f913c3811f9de2a820e795.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>Stairs Mountain is further up Davis Path to the northeast.</p>
+<p><img decoding="async" loading="lazy" alt="Stairs Mountain" src="https://lostnotch.com/assets/images/stairs-d490938f72e3fe773bdae8c1b646effa.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>Mt. Washington is almost due north.</p>
+<p><img decoding="async" loading="lazy" alt="Mt. Washington" src="https://lostnotch.com/assets/images/washington-bd6575f56679960f8d75cc48bc13bbea.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>And that's just 90 degrees of the compass. Mt. Crawford has close to 360 degrees of views. It's well worth a visit.</p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Washington Region" term="Washington Region"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Monadnock after a Nor'easter]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/monadnock-under-snow</id>
-        <link href="https://your-docusaurus-site.example.com/blog/monadnock-under-snow"/>
+        <id>https://lostnotch.com/blog/monadnock-under-snow</id>
+        <link href="https://lostnotch.com/blog/monadnock-under-snow"/>
         <updated>2023-03-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Yesterday, a late season nor'easter dumped more than two feet of snow on the Monadnock region. The entire summit of Monadnock is under a blanket of white. If you look closely, you can see a lone hiker near the top of the mountain.]]></summary>
         <content type="html"><![CDATA[<p>Yesterday, a late season nor'easter dumped more than two feet of snow on the Monadnock region. The entire summit of Monadnock is under a blanket of white. If you look closely, you can see a lone hiker near the top of the mountain.</p>
-<div class="text--center"><p><img decoding="async" loading="lazy" alt="Monadnock summit" src="https://your-docusaurus-site.example.com/assets/images/summit-2834ae9af50cb011cc6e6187eb090b0a.jpg" width="512" height="640" class="img_ev3q"></p></div>
+<div class="text--center"><p><img decoding="async" loading="lazy" alt="Monadnock summit" src="https://lostnotch.com/assets/images/summit-2834ae9af50cb011cc6e6187eb090b0a.jpg" width="512" height="640" class="img_ev3q"></p></div>
 <!-- -->
 <p>The high winds sculpted dramatic shapes in the snow.</p>
-<p><img decoding="async" loading="lazy" alt="Wind sculpted snow" src="https://your-docusaurus-site.example.com/assets/images/sculpted-snow-b3aa648927cdc41d613ffbdf6ba7c0f7.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Wind sculpted snow" src="https://lostnotch.com/assets/images/sculpted-snow-b3aa648927cdc41d613ffbdf6ba7c0f7.jpg" width="1200" height="800" class="img_ev3q"></p>
 <p>The underlying rock emerges in places to remind us the snow is temporary. Spring is just around the corner. The melting snow will help the alpine plants thrive.</p>
-<p><img decoding="async" loading="lazy" alt="Detail" src="https://your-docusaurus-site.example.com/assets/images/detail-c4ad455d71429f5330f465d8f77cf16b.jpg" width="1000" height="800" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" alt="Detail" src="https://lostnotch.com/assets/images/detail-c4ad455d71429f5330f465d8f77cf16b.jpg" width="1000" height="800" class="img_ev3q"></p>]]></content>
         <author>
             <name>Lost Notch Caretaker</name>
-            <uri>/</uri>
+            <uri>/caretaker</uri>
         </author>
         <category label="Mt. Monadnock" term="Mt. Monadnock"/>
     </entry>
