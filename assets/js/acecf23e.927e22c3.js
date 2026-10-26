@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklost_notch=self.webpackChunklost_notch||[]).push([["220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
