@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lostnotch.com/blog</id>
     <title>Lost Notch Blog</title>
-    <updated>2026-10-19T00:00:00.000Z</updated>
+    <updated>2026-10-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lostnotch.com/blog"/>
     <subtitle>Lost Notch Blog</subtitle>
     <icon>https://lostnotch.com/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Snyder Brook]]></title>
+        <id>https://lostnotch.com/blog/snyder-brook</id>
+        <link href="https://lostnotch.com/blog/snyder-brook"/>
+        <updated>2026-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Snyder Brook runs roughly parallel to Valley Way. Fallsway and Brookbank hug the edges of Synder Brook and feature views of many waterfalls, making either trail a great alternative to the lower section of Valley Way.]]></summary>
+        <content type="html"><![CDATA[<p>Snyder Brook runs roughly parallel to Valley Way. Fallsway and Brookbank hug the edges of Synder Brook and feature views of many waterfalls, making either trail a great alternative to the lower section of Valley Way.</p>
+<p>Here's Tama Fall, just off Brookbank.</p>
+<p><img decoding="async" loading="lazy" alt="Tama Fall" src="https://lostnotch.com/assets/images/tama-00d42e2bee68f9726605dbd1fb124db9.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>Upper Salroc Falls.</p>
+<p><img decoding="async" loading="lazy" alt="Upper Salroc" src="https://lostnotch.com/assets/images/upper-salroc-0dfae0b41d84eda33f9a21f615e0125c.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>Gordon Fall.</p>
+<p><img decoding="async" loading="lazy" alt="Gordon Fall" src="https://lostnotch.com/assets/images/gordon-324f4aa7ae608a9b563b45055af7ab47.jpg" width="1000" height="800" class="img_ev3q"></p>
+<p>And these are just the waterfalls with names. There are many unnamed rills and falls along Snyder Brook too.</p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Northern presidentials" term="Northern presidentials"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Church Pond]]></title>
         <id>https://lostnotch.com/blog/church-pond</id>
@@ -68,6 +90,26 @@
         </author>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Waterville Region" term="Waterville Region"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mt. Success]]></title>
+        <id>https://lostnotch.com/blog/mt-success</id>
+        <link href="https://lostnotch.com/blog/mt-success"/>
+        <updated>2026-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you are hiking the Appalachian Trail northbound. You are almost finished with New Hampshire. You just have one more climb -- Mt. Success. As you near the summit, you look south to see some of the mountains you have already traveled over, the Carter-Moriah Range and the Northern Presidentials.]]></summary>
+        <content type="html"><![CDATA[<p>Imagine you are hiking the Appalachian Trail northbound. You are almost finished with New Hampshire. You just have one more climb -- Mt. Success. As you near the summit, you look south to see some of the mountains you have already traveled over, the Carter-Moriah Range and the Northern Presidentials.</p>
+<p><img decoding="async" loading="lazy" alt="Looking south" src="https://lostnotch.com/assets/images/south-56329d2919b236b3e85e672fd3b42504.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>You push north over bog bridges to the summit of Mt. Success.</p>
+<p><img decoding="async" loading="lazy" alt="Bog bridges" src="https://lostnotch.com/assets/images/bog-bridges-968c3da6d8ae5c406c6055969612ce97.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>From there, you get your first proper look at Goose Eye and the mountains of Maine.</p>
+<p><img decoding="async" loading="lazy" alt="Looking north" src="https://lostnotch.com/assets/images/maine-8b4c8be52fa4abcec11fae4ccdfc0bd3.jpg" width="1250" height="750" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Mahoosuc Region" term="Mahoosuc Region"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alpine Garden]]></title>

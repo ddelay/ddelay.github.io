@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklost_notch=self.webpackChunklost_notch||[]).push([["6431"],{9328(t){t.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
