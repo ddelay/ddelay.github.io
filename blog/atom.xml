@@ -27,7 +27,7 @@
             <uri>/caretaker</uri>
         </author>
         <category label="White Mountains" term="White Mountains"/>
-        <category label="Northern presidentials" term="Northern presidentials"/>
+        <category label="Northern Presidentials" term="Northern Presidentials"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Church Pond]]></title>
@@ -110,6 +110,47 @@
         </author>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Mahoosuc Region" term="Mahoosuc Region"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monadnock Summit Bog]]></title>
+        <id>https://lostnotch.com/blog/monadnock-summit-bog</id>
+        <link href="https://lostnotch.com/blog/monadnock-summit-bog"/>
+        <updated>2026-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many tiny microclimates scattered around the summit of Mt. Monadnock. It's fascinating to return to favorite spots at different times of the year. This bog is just below the summit on Pumpelly Trail. Today, the bog is full of spring green foliage.]]></summary>
+        <content type="html"><![CDATA[<p>There are many tiny microclimates scattered around the summit of Mt. Monadnock. It's fascinating to return to favorite spots at different times of the year. This bog is just below the summit on Pumpelly Trail. Today, the bog is full of spring green foliage.</p>
+<div class="text--center"><p><img decoding="async" loading="lazy" alt="Spring" src="https://lostnotch.com/assets/images/01-636eb447b84ca85c0b60bab086150f47.jpg" width="512" height="640" class="img_ev3q"></p></div>
+<!-- -->
+<p>Later this summer, the bog cotton will emerge to dance in the wind (photo from August, 2024).</p>
+<div class="text--center"><p><img decoding="async" loading="lazy" alt="Summer" src="https://lostnotch.com/assets/images/03-c391e49fad8306c6a90ce65d7967c33d.jpg" width="512" height="640" class="img_ev3q"></p></div>
+<p>Autumn brings deep, rusty tones (photo from October, 2023).</p>
+<div class="text--center"><p><img decoding="async" loading="lazy" alt="Fall" src="https://lostnotch.com/assets/images/05-bd15825ce4b636a327b4b9d7079e65be.jpg" width="512" height="640" class="img_ev3q"></p></div>
+<p>And the long winter above 3000 feet is almost entirely black and white (photo from November, 2025).</p>
+<div class="text--center"><p><img decoding="async" loading="lazy" alt="Fall" src="https://lostnotch.com/assets/images/07-06a703a32eebf8ce2e6df2427115d782.jpg" width="512" height="640" class="img_ev3q"></p></div>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="Mt. Monadnock" term="Mt. Monadnock"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chocorua in the Clouds]]></title>
+        <id>https://lostnotch.com/blog/chocorua-in-clouds</id>
+        <link href="https://lostnotch.com/blog/chocorua-in-clouds"/>
+        <updated>2026-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The summit of Mt. Chocorua is often crowded with hikers. Apparently, unsettled weather keeps the crowds at bay. It is a rare treat to have the summit to yourself.]]></summary>
+        <content type="html"><![CDATA[<p>The summit of Mt. Chocorua is often crowded with hikers. Apparently, unsettled weather keeps the crowds at bay. It is a rare treat to have the summit to yourself.</p>
+<p><img decoding="async" loading="lazy" alt="Looking northeast" src="https://lostnotch.com/assets/images/northeast-7c0209d07a5e7ab099f9982febde38c9.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>Even though the clouds cover most neighboring peaks, North Tripyramid might make an appearance.</p>
+<p><img decoding="async" loading="lazy" alt="North Tripyramid" src="https://lostnotch.com/assets/images/north-tri-38151ad3c99d8a849b4db6e8e63678e7.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>And it is magical walking along the exposed section of Piper Trail.</p>
+<p><img decoding="async" loading="lazy" alt="Piper Trail" src="https://lostnotch.com/assets/images/piper-3243053267fc520c607711c6967806e5.jpg" width="1200" height="800" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Chocorua Region" term="Chocorua Region"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alpine Garden]]></title>
