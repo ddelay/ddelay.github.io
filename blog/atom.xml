@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lostnotch.com/blog</id>
     <title>Lost Notch Blog</title>
-    <updated>2026-10-27T00:00:00.000Z</updated>
+    <updated>2026-11-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lostnotch.com/blog"/>
     <subtitle>Lost Notch Blog</subtitle>
     <icon>https://lostnotch.com/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Lower Montalban Ridge]]></title>
+        <id>https://lostnotch.com/blog/lower-montalban-ridge</id>
+        <link href="https://lostnotch.com/blog/lower-montalban-ridge"/>
+        <updated>2026-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Montalban Ridge extends south from Mt. Washinton over Boott Spur and Mt. Isolation. After Stairs Mountain, the ridge splits into two arms -- one continuing south over Mt. Crawford; the other tacking east over Mt. Resolution, Mt. Parker, and on to Mt. Stanton. These photos are from the Mt. Stanton Trail, a very pleasant walk over the rocky spine of the lower ridge.]]></summary>
+        <content type="html"><![CDATA[<p>Montalban Ridge extends south from Mt. Washinton over Boott Spur and Mt. Isolation. After Stairs Mountain, the ridge splits into two arms -- one continuing south over Mt. Crawford; the other tacking east over Mt. Resolution, Mt. Parker, and on to Mt. Stanton. These photos are from the Mt. Stanton Trail, a very pleasant walk over the rocky spine of the lower ridge.</p>
+<div class="text--center"><p><img decoding="async" loading="lazy" alt="Mt. Stanton Trail" src="https://lostnotch.com/assets/images/01-6f9dd1ac0976476a29166bd3bc4f47df.jpg" width="512" height="640" class="img_ev3q"></p></div>
+<!-- -->
+<p>Mt. Stanton Trail offers views of neighboring peaks from several crags. Here's Iron Mountain just north of Mt. Stanton.</p>
+<p><img decoding="async" loading="lazy" alt="Iron Mountain" src="https://lostnotch.com/assets/images/02-65de2002508b45a9d825f68abfc5c55e.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>And further north is Carter Notch. On the east side of the notch, Carter Dome is already touched by snow and ice.</p>
+<p><img decoding="async" loading="lazy" alt="Carter Notch" src="https://lostnotch.com/assets/images/03-e67795de5030091455b809c9defbc926.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>Since Mt. Stanton Trail never rises above 2400 feet, it will be awhile before winter sets in. There's still time to appreciate sights like this juniper hugging a sunny ledge and exploding with berries.</p>
+<p><img decoding="async" loading="lazy" alt="Juniper" src="https://lostnotch.com/assets/images/04-e1c128d7dd067763e036ed5b7e2eee8c.jpg" width="1000" height="800" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Washington Region" term="Washington Region"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snyder Brook]]></title>
         <id>https://lostnotch.com/blog/snyder-brook</id>
@@ -173,6 +195,48 @@
         </author>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Chocorua Region" term="Chocorua Region"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moats Traverse]]></title>
+        <id>https://lostnotch.com/blog/moats-traverse</id>
+        <link href="https://lostnotch.com/blog/moats-traverse"/>
+        <updated>2025-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Moat Mountain Range is just west of North Conway. If you enjoy a ridge walk on open ledges, the Moats Traverse is good choice this time of year. It's less crowded than Franconia Ridge, and because they are lower in elevation, the Moats offer a better view of the foliage in the valleys. Here's a look at Mt. Chocorua from South Moat.]]></summary>
+        <content type="html"><![CDATA[<p>The Moat Mountain Range is just west of North Conway. If you enjoy a ridge walk on open ledges, the Moats Traverse is good choice this time of year. It's less crowded than Franconia Ridge, and because they are lower in elevation, the Moats offer a better view of the foliage in the valleys. Here's a look at Mt. Chocorua from South Moat.</p>
+<p><img decoding="async" loading="lazy" alt="From South Moat" src="https://lostnotch.com/assets/images/01-50162a17be8668b8e79e9cbe01d7274f.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>This is the view north from Middle Moat. That's North Moat on the right.</p>
+<p><img decoding="async" loading="lazy" alt="From Middle Moat" src="https://lostnotch.com/assets/images/02-9343558da7abc51d77953cd49a747509.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>And here's a view from North Moat. Crawford Notch is on the left, Mt. Washington is just right of center, and Carter Notch is on the right.</p>
+<p><img decoding="async" loading="lazy" alt="From North Moat" src="https://lostnotch.com/assets/images/03-5cb92665d43628bece527a807916b80b.jpg" width="1200" height="800" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Carrigain Region" term="Carrigain Region"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mt. Clay]]></title>
+        <id>https://lostnotch.com/blog/mt-clay</id>
+        <link href="https://lostnotch.com/blog/mt-clay"/>
+        <updated>2025-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mt. Clay is the "little" mountain to the right of Mt. Washington. It's 5525 feet above sea level, but it's not on the NH48 list because it's less than 200 feet above the low point (the col) between Washington and itself.]]></summary>
+        <content type="html"><![CDATA[<p>Mt. Clay is the "little" mountain to the right of Mt. Washington. It's 5525 feet above sea level, but it's not on the NH48 list because it's less than 200 feet above the low point (the col) between Washington and itself.</p>
+<p><img decoding="async" loading="lazy" alt="Mt. Clay from Gulfside Trail" src="https://lostnotch.com/assets/images/01-82914fb401ff866131910db4662e1f36.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>Although it's just off the Appachian Trail, hikers and backpackers often skip Mt. Clay. Big mistake.</p>
+<p>The Great Gulf is the huge ravine separating Mt. Washington from the northern half of the Presidential Range. Here's a view of the Great Gulf from near the summit of Mt. Clay.</p>
+<p><img decoding="async" loading="lazy" alt="Great Gulf" src="https://lostnotch.com/assets/images/02-14f8622074c1ba2b7a6dbd60561a5166.jpg" width="1200" height="800" class="img_ev3q"></p>
+<p>North of the summit, you can see Jefferson (left), Adams and Madison. Mt. Clay is a perfect perch to pass the time on a fair weather day.</p>
+<p><img decoding="async" loading="lazy" alt="Mt. Jefferson" src="https://lostnotch.com/assets/images/03-20e66426b5e26cae595870b39bdff65e.jpg" width="1200" height="800" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Northern Presidentials" term="Northern Presidentials"/>
+        <category label="Appalachian Trail" term="Appalachian Trail"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Castle Ravine]]></title>
