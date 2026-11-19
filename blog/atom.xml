@@ -26,6 +26,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Washington Region" term="Washington Region"/>
     </entry>
@@ -48,6 +49,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Northern Presidentials" term="Northern Presidentials"/>
     </entry>
@@ -70,6 +72,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Carrigain Region" term="Carrigain Region"/>
     </entry>
@@ -90,6 +93,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Franconia Region" term="Franconia Region"/>
         <category label="Appalachian Trail" term="Appalachian Trail"/>
@@ -111,6 +115,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Waterville Region" term="Waterville Region"/>
     </entry>
@@ -131,6 +136,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Mahoosuc Region" term="Mahoosuc Region"/>
         <category label="Appalachian Trail" term="Appalachian Trail"/>
@@ -152,6 +158,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Summer" term="Summer"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Waterville Region" term="Waterville Region"/>
     </entry>
@@ -174,6 +181,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Summer" term="Summer"/>
         <category label="Mt. Monadnock" term="Mt. Monadnock"/>
     </entry>
     <entry>
@@ -193,6 +201,7 @@
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Spring" term="Spring"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Chocorua Region" term="Chocorua Region"/>
     </entry>
@@ -204,23 +213,44 @@
         <summary type="html"><![CDATA[Henry David Thoreau visited Mt. Monadnock on four separate occasions. As he wrote in his journal, he wasn't a fan of noisy tourists:]]></summary>
         <content type="html"><![CDATA[<p>Henry David Thoreau visited Mt. Monadnock on four separate occasions. As he wrote in his journal, he wasn't a fan of noisy tourists:</p>
 <blockquote>
-<p>Indeed this peak in pleasant weather is the most trivial place in New England -– there are prob. more arrivals
+<p>Indeed this peak in pleasant weather is the most trivial place in New England - there are prob. more arrivals
 daily than at any of the white mt houses. Several were busily engraving their names on the rock with cold
-chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but little leisure to look off.</p>
+chisels - <em>whose incessant chink you heard</em> - &amp; they had but little leisure to look off.</p>
 </blockquote>
 <p>Apparently, the noise started long before Thoreau got there. P.S. Grant made his mark in 1808.</p>
 <p><img decoding="async" loading="lazy" alt="P.S. Grant" src="https://lostnotch.com/assets/images/01-c0105c819277d4a578407d9f296524d4.jpg" width="1200" height="800" class="img_ev3q"></p>
 <!-- -->
 <p>H.J. Brown made his mark several years later. (Brown may not have been a tourist. As indicated by his engraving, he may have been associated with the USGS, but I haven't been able to verify that.)</p>
 <p><img decoding="async" loading="lazy" alt="H.J. Brown" src="https://lostnotch.com/assets/images/02-d500de79dd6a8c9922182bda13119117.jpg" width="1200" height="800" class="img_ev3q"></p>
-<p>At some point in the 20th century, tourists stopped or where prohibited from chiseling the summit rocks. It's good thing. Imagine the summit with more engravings than there already are.</p>
+<p>At some point in the 20th century, tourists stopped (or where prohibited from) chiseling the summit rocks. It's good thing. Imagine the summit with more engravings than there already are.</p>
 <p><img decoding="async" loading="lazy" alt="Engravings" src="https://lostnotch.com/assets/images/03-8fc3eff5bcb81c81fc90a572140bf3e0.jpg" width="1200" height="800" class="img_ev3q"></p>]]></content>
         <author>
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
-        <category label="White Mountains" term="White Mountains"/>
+        <category label="Spring" term="Spring"/>
         <category label="Mt. Monadnock" term="Mt. Monadnock"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artist's Bluff]]></title>
+        <id>https://lostnotch.com/blog/artists-bluff</id>
+        <link href="https://lostnotch.com/blog/artists-bluff"/>
+        <updated>2026-01-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Artist's Bluff is an outlook on the north end of Franconia Notch. In the past few years, it has become "Instagram famous". On a fine day in early October, it is standing room only.]]></summary>
+        <content type="html"><![CDATA[<p>Artist's Bluff is an outlook on the north end of Franconia Notch. In the past few years, it has become "Instagram famous". On a fine day in early October, it is <a href="https://www.nhpr.org/nh-news/2025-10-10/state-steps-up-plan-weekend-hiking-traffic-franconia-foliage" target="_blank" rel="noopener noreferrer" class="">standing room only</a>.</p>
+<p>There were no crowds on the bluff today.</p>
+<p><img decoding="async" loading="lazy" alt="Winter" src="https://lostnotch.com/assets/images/01-9a4ae479a21c0515fb5000de1d82fe04.jpg" width="1200" height="800" class="img_ev3q"></p>
+<!-- -->
+<p>Here is the same view in October of 2016.</p>
+<p><img decoding="async" loading="lazy" alt="Fall" src="https://lostnotch.com/assets/images/02-54b7a9ed19370c37acb6aeeda485f486.jpg" width="1500" height="900" class="img_ev3q"></p>
+<p>I avoid Artist's Bluff and the crowds in the fall, but I understand the appeal. It's a quick, easy hike with a fantastic view. Just remember, the view is there all year round.</p>]]></content>
+        <author>
+            <name>Lost Notch Caretaker</name>
+            <uri>/caretaker</uri>
+        </author>
+        <category label="Winter" term="Winter"/>
+        <category label="White Mountains" term="White Mountains"/>
+        <category label="Franconia Region" term="Franconia Region"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moats Traverse]]></title>
@@ -239,6 +269,7 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Carrigain Region" term="Carrigain Region"/>
     </entry>
@@ -260,6 +291,7 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Summer" term="Summer"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Northern Presidentials" term="Northern Presidentials"/>
         <category label="Appalachian Trail" term="Appalachian Trail"/>
@@ -282,6 +314,7 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Summer" term="Summer"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Northern Presidentials" term="Northern Presidentials"/>
     </entry>
@@ -302,6 +335,7 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Summer" term="Summer"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Franconia Region" term="Franconia Region"/>
         <category label="Appalachian Trail" term="Appalachian Trail"/>
@@ -325,6 +359,7 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Summer" term="Summer"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Washington Region" term="Washington Region"/>
     </entry>
@@ -345,6 +380,7 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Summer" term="Summer"/>
         <category label="Moosilauke Region" term="Moosilauke Region"/>
         <category label="Appalachian Trail" term="Appalachian Trail"/>
     </entry>
@@ -366,6 +402,7 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Summer" term="Summer"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Moosilauke Region" term="Moosilauke Region"/>
     </entry>
@@ -386,6 +423,7 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Franconia Region" term="Franconia Region"/>
         <category label="Appalachian Trail" term="Appalachian Trail"/>
@@ -408,26 +446,8 @@ chisels -– <em>whose incessant chink you heard</em> –- &amp; they had but li
             <name>Lost Notch Caretaker</name>
             <uri>/caretaker</uri>
         </author>
+        <category label="Fall" term="Fall"/>
         <category label="White Mountains" term="White Mountains"/>
         <category label="Washington Region" term="Washington Region"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monadnock after a Nor'easter]]></title>
-        <id>https://lostnotch.com/blog/monadnock-under-snow</id>
-        <link href="https://lostnotch.com/blog/monadnock-under-snow"/>
-        <updated>2023-03-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday, a late season nor'easter dumped more than two feet of snow on the Monadnock region. The entire summit of Monadnock is under a blanket of white. If you look closely, you can see a lone hiker near the top of the mountain.]]></summary>
-        <content type="html"><![CDATA[<p>Yesterday, a late season nor'easter dumped more than two feet of snow on the Monadnock region. The entire summit of Monadnock is under a blanket of white. If you look closely, you can see a lone hiker near the top of the mountain.</p>
-<div class="text--center"><p><img decoding="async" loading="lazy" alt="Monadnock summit" src="https://lostnotch.com/assets/images/summit-2834ae9af50cb011cc6e6187eb090b0a.jpg" width="512" height="640" class="img_ev3q"></p></div>
-<!-- -->
-<p>The high winds sculpted dramatic shapes in the snow.</p>
-<p><img decoding="async" loading="lazy" alt="Wind sculpted snow" src="https://lostnotch.com/assets/images/sculpted-snow-b3aa648927cdc41d613ffbdf6ba7c0f7.jpg" width="1200" height="800" class="img_ev3q"></p>
-<p>The underlying rock emerges in places to remind us the snow is temporary. Spring is just around the corner. The melting snow will help the alpine plants thrive.</p>
-<p><img decoding="async" loading="lazy" alt="Detail" src="https://lostnotch.com/assets/images/detail-c4ad455d71429f5330f465d8f77cf16b.jpg" width="1000" height="800" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Lost Notch Caretaker</name>
-            <uri>/caretaker</uri>
-        </author>
-        <category label="Mt. Monadnock" term="Mt. Monadnock"/>
     </entry>
 </feed>
