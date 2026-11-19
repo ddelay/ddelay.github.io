@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Lost Notch Blog</title>
-        <link>https://lostnotch.com/blog</link>
+        <link>https://lostnotch.com/blog/</link>
         <description>Lost Notch Blog</description>
         <lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Lower Montalban Ridge]]></title>
-            <link>https://lostnotch.com/blog/lower-montalban-ridge</link>
-            <guid>https://lostnotch.com/blog/lower-montalban-ridge</guid>
+            <link>https://lostnotch.com/blog/lower-montalban-ridge/</link>
+            <guid>https://lostnotch.com/blog/lower-montalban-ridge/</guid>
             <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Montalban Ridge extends south from Mt. Washington over Boott Spur and Mt. Isolation. After Stairs Mountain, the ridge splits into two arms -- one continuing south over Mt. Crawford; the other tacking east over Mt. Resolution, Mt. Parker, and on to Mt. Stanton. These photos are from the Mt. Stanton Trail, a very pleasant walk over the rocky spine of the lower ridge.]]></description>
             <content:encoded><![CDATA[<p>Montalban Ridge extends south from Mt. Washington over Boott Spur and Mt. Isolation. After Stairs Mountain, the ridge splits into two arms -- one continuing south over Mt. Crawford; the other tacking east over Mt. Resolution, Mt. Parker, and on to Mt. Stanton. These photos are from the Mt. Stanton Trail, a very pleasant walk over the rocky spine of the lower ridge.</p>
@@ -29,8 +29,8 @@
         </item>
         <item>
             <title><![CDATA[Snyder Brook]]></title>
-            <link>https://lostnotch.com/blog/snyder-brook</link>
-            <guid>https://lostnotch.com/blog/snyder-brook</guid>
+            <link>https://lostnotch.com/blog/snyder-brook/</link>
+            <guid>https://lostnotch.com/blog/snyder-brook/</guid>
             <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Snyder Brook, in Randolph, runs roughly parallel to Valley Way. The Fallsway and Brookbank trails hug the edges of Snyder Brook and feature views of many waterfalls, making either trail a great alternative to the lower section of Valley Way.]]></description>
             <content:encoded><![CDATA[<p>Snyder Brook, in Randolph, runs roughly parallel to Valley Way. The Fallsway and Brookbank trails hug the edges of Snyder Brook and feature views of many waterfalls, making either trail a great alternative to the lower section of Valley Way.</p>
@@ -48,8 +48,8 @@
         </item>
         <item>
             <title><![CDATA[Church Pond]]></title>
-            <link>https://lostnotch.com/blog/church-pond</link>
-            <guid>https://lostnotch.com/blog/church-pond</guid>
+            <link>https://lostnotch.com/blog/church-pond/</link>
+            <guid>https://lostnotch.com/blog/church-pond/</guid>
             <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Church Pond is a little more than a mile off the Kancamagus Highway, but it feels much more remote. The usual route to the pond is from Camp Passaconaway via the Church Pond Loop Trail. While this used to be a loop, the east section of the trail is permanently closed, now making it an out-and-back route.]]></description>
             <content:encoded><![CDATA[<p>Church Pond is a little more than a mile off the Kancamagus Highway, but it feels much more remote. The usual route to the pond is from Camp Passaconaway via the Church Pond Loop Trail. While this used to be a loop, the east section of the trail is permanently closed, now making it an out-and-back route.</p>
@@ -67,8 +67,8 @@
         </item>
         <item>
             <title><![CDATA[Zealand Notch]]></title>
-            <link>https://lostnotch.com/blog/zealand-notch</link>
-            <guid>https://lostnotch.com/blog/zealand-notch</guid>
+            <link>https://lostnotch.com/blog/zealand-notch/</link>
+            <guid>https://lostnotch.com/blog/zealand-notch/</guid>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Low clouds hanging over Zealand Notch make for vibrant early fall foliage. Here is a view across Zealand Pond toward Mt. Hale.]]></description>
             <content:encoded><![CDATA[<p>Low clouds hanging over Zealand Notch make for vibrant early fall foliage. Here is a view across Zealand Pond toward Mt. Hale.</p>
@@ -85,8 +85,8 @@
         </item>
         <item>
             <title><![CDATA[Guinea Pond]]></title>
-            <link>https://lostnotch.com/blog/guinea-pond</link>
-            <guid>https://lostnotch.com/blog/guinea-pond</guid>
+            <link>https://lostnotch.com/blog/guinea-pond/</link>
+            <guid>https://lostnotch.com/blog/guinea-pond/</guid>
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Guinea Pond is located in the Sandwich Range Wilderness, just south of Sandwich Mountain. Black Mountain, a subpeak of Sandwich Mountain, looms over the pond.]]></description>
             <content:encoded><![CDATA[<p>Guinea Pond is located in the Sandwich Range Wilderness, just south of Sandwich Mountain. Black Mountain, a subpeak of Sandwich Mountain, looms over the pond.</p>
@@ -102,8 +102,8 @@
         </item>
         <item>
             <title><![CDATA[Mt. Success]]></title>
-            <link>https://lostnotch.com/blog/mt-success</link>
-            <guid>https://lostnotch.com/blog/mt-success</guid>
+            <link>https://lostnotch.com/blog/mt-success/</link>
+            <guid>https://lostnotch.com/blog/mt-success/</guid>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Imagine you are hiking the Appalachian Trail northbound. You are almost finished with New Hampshire. You just have one more climb -- Mt. Success. As you near the summit, you look south to see some of the mountains you have already traveled over, the Carter-Moriah Range and the Northern Presidentials.]]></description>
             <content:encoded><![CDATA[<p>Imagine you are hiking the Appalachian Trail northbound. You are almost finished with New Hampshire. You just have one more climb -- Mt. Success. As you near the summit, you look south to see some of the mountains you have already traveled over, the Carter-Moriah Range and the Northern Presidentials.</p>
@@ -120,8 +120,8 @@
         </item>
         <item>
             <title><![CDATA[Flat Mountain Pond]]></title>
-            <link>https://lostnotch.com/blog/flat-mountain-pond</link>
-            <guid>https://lostnotch.com/blog/flat-mountain-pond</guid>
+            <link>https://lostnotch.com/blog/flat-mountain-pond/</link>
+            <guid>https://lostnotch.com/blog/flat-mountain-pond/</guid>
             <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Flat Mountain Pond is a remote, upland pond in the Sandwich Range Wilderness. It's accessible only on foot by the Flat Mountain Pond Trail. This is a view of Sandwich Mountain from the north shore of the pond.]]></description>
             <content:encoded><![CDATA[<p>Flat Mountain Pond is a remote, upland pond in the Sandwich Range Wilderness. It's accessible only on foot by the Flat Mountain Pond Trail. This is a view of Sandwich Mountain from the north shore of the pond.</p>
@@ -137,8 +137,8 @@
         </item>
         <item>
             <title><![CDATA[Monadnock Summit Bog]]></title>
-            <link>https://lostnotch.com/blog/monadnock-summit-bog</link>
-            <guid>https://lostnotch.com/blog/monadnock-summit-bog</guid>
+            <link>https://lostnotch.com/blog/monadnock-summit-bog/</link>
+            <guid>https://lostnotch.com/blog/monadnock-summit-bog/</guid>
             <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[There are many microclimates scattered around the summit of Mt. Monadnock. It's fascinating to return to a favorite spot at different times of the year. This bog is just below the summit on Pumpelly Trail. Today, the bog is full of spring green foliage.]]></description>
             <content:encoded><![CDATA[<p>There are many microclimates scattered around the summit of Mt. Monadnock. It's fascinating to return to a favorite spot at different times of the year. This bog is just below the summit on Pumpelly Trail. Today, the bog is full of spring green foliage.</p>
@@ -155,8 +155,8 @@
         </item>
         <item>
             <title><![CDATA[Chocorua in the Clouds]]></title>
-            <link>https://lostnotch.com/blog/chocorua-in-clouds</link>
-            <guid>https://lostnotch.com/blog/chocorua-in-clouds</guid>
+            <link>https://lostnotch.com/blog/chocorua-in-clouds/</link>
+            <guid>https://lostnotch.com/blog/chocorua-in-clouds/</guid>
             <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[The summit of Mt. Chocorua is often crowded with hikers. Apparently, unsettled weather keeps the crowds at bay. It is a rare treat to have the summit to yourself.]]></description>
             <content:encoded><![CDATA[<p>The summit of Mt. Chocorua is often crowded with hikers. Apparently, unsettled weather keeps the crowds at bay. It is a rare treat to have the summit to yourself.</p>
@@ -172,8 +172,8 @@
         </item>
         <item>
             <title><![CDATA[Monadnock Summit Engravings]]></title>
-            <link>https://lostnotch.com/blog/monadnock-engravings</link>
-            <guid>https://lostnotch.com/blog/monadnock-engravings</guid>
+            <link>https://lostnotch.com/blog/monadnock-engravings/</link>
+            <guid>https://lostnotch.com/blog/monadnock-engravings/</guid>
             <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Henry David Thoreau visited Mt. Monadnock on four separate occasions. As he wrote in his journal, he wasn't a fan of noisy tourists:]]></description>
             <content:encoded><![CDATA[<p>Henry David Thoreau visited Mt. Monadnock on four separate occasions. As he wrote in his journal, he wasn't a fan of noisy tourists:</p>
@@ -194,8 +194,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Artist's Bluff]]></title>
-            <link>https://lostnotch.com/blog/artists-bluff</link>
-            <guid>https://lostnotch.com/blog/artists-bluff</guid>
+            <link>https://lostnotch.com/blog/artists-bluff/</link>
+            <guid>https://lostnotch.com/blog/artists-bluff/</guid>
             <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Artist's Bluff is an outlook on the north end of Franconia Notch. In the past few years, it has become "Instagram famous". On a fine day in early October, it is standing room only.]]></description>
             <content:encoded><![CDATA[<p>Artist's Bluff is an outlook on the north end of Franconia Notch. In the past few years, it has become "Instagram famous". On a fine day in early October, it is <a href="https://www.nhpr.org/nh-news/2025-10-10/state-steps-up-plan-weekend-hiking-traffic-franconia-foliage" target="_blank" rel="noopener noreferrer" class="">standing room only</a>.</p>
@@ -211,8 +211,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Moats Traverse]]></title>
-            <link>https://lostnotch.com/blog/moats-traverse</link>
-            <guid>https://lostnotch.com/blog/moats-traverse</guid>
+            <link>https://lostnotch.com/blog/moats-traverse/</link>
+            <guid>https://lostnotch.com/blog/moats-traverse/</guid>
             <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The Moat Mountain Range is just west of North Conway. If you enjoy a ridge walk on open ledges, the Moats Traverse is good choice this time of year. It's less crowded than Franconia Ridge, and because they are lower in elevation, the Moats offer a better view of the foliage in the valleys. Here's a look at Mt. Chocorua from South Moat.]]></description>
             <content:encoded><![CDATA[<p>The Moat Mountain Range is just west of North Conway. If you enjoy a ridge walk on open ledges, the Moats Traverse is good choice this time of year. It's less crowded than Franconia Ridge, and because they are lower in elevation, the Moats offer a better view of the foliage in the valleys. Here's a look at Mt. Chocorua from South Moat.</p>
@@ -228,8 +228,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Mt. Clay]]></title>
-            <link>https://lostnotch.com/blog/mt-clay</link>
-            <guid>https://lostnotch.com/blog/mt-clay</guid>
+            <link>https://lostnotch.com/blog/mt-clay/</link>
+            <guid>https://lostnotch.com/blog/mt-clay/</guid>
             <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Mt. Clay is the "little" mountain to the right of Mt. Washington. It's 5525 feet above sea level, but it's not on the NH48 list because it's less than 200 feet above the low point (the col) between Washington and itself.]]></description>
             <content:encoded><![CDATA[<p>Mt. Clay is the "little" mountain to the right of Mt. Washington. It's 5525 feet above sea level, but it's not on the NH48 list because it's less than 200 feet above the low point (the col) between Washington and itself.</p>
@@ -247,8 +247,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Castle Ravine]]></title>
-            <link>https://lostnotch.com/blog/castle-ravine</link>
-            <guid>https://lostnotch.com/blog/castle-ravine</guid>
+            <link>https://lostnotch.com/blog/castle-ravine/</link>
+            <guid>https://lostnotch.com/blog/castle-ravine/</guid>
             <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Castle Ravine is a glacial cirque on the north side of Mt. Jefferson. Here's a view down the ravine from Castle Ravine Trail.]]></description>
             <content:encoded><![CDATA[<p>Castle Ravine is a glacial cirque on the north side of Mt. Jefferson. Here's a view down the ravine from Castle Ravine Trail.</p>
@@ -265,8 +265,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[North of Lafayette]]></title>
-            <link>https://lostnotch.com/blog/north-of-lafayette</link>
-            <guid>https://lostnotch.com/blog/north-of-lafayette</guid>
+            <link>https://lostnotch.com/blog/north-of-lafayette/</link>
+            <guid>https://lostnotch.com/blog/north-of-lafayette/</guid>
             <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The Franconia Ridge is very popular -- especially between Little Haystack and Mt. Lafayette. Day hikers are less inclined to venture north of Mt. Lafayette, but it's just as beautiful. This is Garfield Ridge Trail just north of Lafayette.]]></description>
             <content:encoded><![CDATA[<p>The Franconia Ridge is very popular -- especially between Little Haystack and Mt. Lafayette. Day hikers are less inclined to venture north of Mt. Lafayette, but it's just as beautiful. This is Garfield Ridge Trail just north of Lafayette.</p>
@@ -283,8 +283,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Alpine Garden]]></title>
-            <link>https://lostnotch.com/blog/alpine-garden</link>
-            <guid>https://lostnotch.com/blog/alpine-garden</guid>
+            <link>https://lostnotch.com/blog/alpine-garden/</link>
+            <guid>https://lostnotch.com/blog/alpine-garden/</guid>
             <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The Alpine Garden is an area above treeline on Mt. Washington's eastern slope between Tuckerman Ravine and Huntington Ravine. It's a place where several varieties of alpine plants produce flowers in June and into July. June 9 is early for the flowers of some varieties, but Lapland Rosebay (pink) and Diapensia (white) are blooming on the edge of Tuckerman Ravine.]]></description>
             <content:encoded><![CDATA[<p>The Alpine Garden is an area above treeline on Mt. Washington's eastern slope between Tuckerman Ravine and Huntington Ravine. It's a place where several varieties of alpine plants produce flowers in June and into July. June 9 is early for the flowers of some varieties, but Lapland Rosebay (pink) and Diapensia (white) are blooming on the edge of Tuckerman Ravine.</p>
@@ -302,8 +302,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Mountain View Farm]]></title>
-            <link>https://lostnotch.com/blog/mountain-view-farm</link>
-            <guid>https://lostnotch.com/blog/mountain-view-farm</guid>
+            <link>https://lostnotch.com/blog/mountain-view-farm/</link>
+            <guid>https://lostnotch.com/blog/mountain-view-farm/</guid>
             <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[The Daniel Doan Trail is a little-used route to the summit of Smarts Mountain. The trailhead is close to Mountain View Farm in Quinttown, a section of Orford, New Hampshire.]]></description>
             <content:encoded><![CDATA[<p>The Daniel Doan Trail is a little-used route to the summit of Smarts Mountain. The trailhead is close to <a href="https://uvlt.org/conservation-areas/mountain-view-farm/" target="_blank" rel="noopener noreferrer" class="">Mountain View Farm</a> in Quinttown, a section of Orford, New Hampshire.</p>
@@ -319,8 +319,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Moosilauke South Peak]]></title>
-            <link>https://lostnotch.com/blog/moosilauke-south-peak</link>
-            <guid>https://lostnotch.com/blog/moosilauke-south-peak</guid>
+            <link>https://lostnotch.com/blog/moosilauke-south-peak/</link>
+            <guid>https://lostnotch.com/blog/moosilauke-south-peak/</guid>
             <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Mt. Moosilauke is massive. In addition to the main summit commonly sought by NH48 peak baggers, it has three subpeaks over 4000 feet: Mt. Jim, Mt. Blue, and South Peak. These subpeaks are sometimes overlooked because they lack the prominence required by the NH48 list, but South Peak in particular has some great views.]]></description>
             <content:encoded><![CDATA[<p>Mt. Moosilauke is massive. In addition to the main summit commonly sought by <a href="https://4000footers.com/nh.shtml" target="_blank" rel="noopener noreferrer" class="">NH48</a> peak baggers, it has three subpeaks over 4000 feet: Mt. Jim, Mt. Blue, and South Peak. These subpeaks are sometimes overlooked because they lack the prominence required by the NH48 list, but South Peak in particular has some great views.</p>
@@ -337,8 +337,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Mt. Lafayette]]></title>
-            <link>https://lostnotch.com/blog/mt-lafayette</link>
-            <guid>https://lostnotch.com/blog/mt-lafayette</guid>
+            <link>https://lostnotch.com/blog/mt-lafayette/</link>
+            <guid>https://lostnotch.com/blog/mt-lafayette/</guid>
             <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Winter arrives early on the summit of Mt. Lafayette. Foliage season is hardly over in the valleys before snow and ice grip the summit. These hikers look prepared as they leave Mt. Lafayette to traverse Franconia Ridge.]]></description>
             <content:encoded><![CDATA[<p>Winter arrives early on the summit of Mt. Lafayette. Foliage season is hardly over in the valleys before snow and ice grip the summit. These hikers look prepared as they leave Mt. Lafayette to traverse Franconia Ridge.</p>
@@ -355,8 +355,8 @@ chisels - <em>whose incessant chink you heard</em> - &amp; they had but little l
         </item>
         <item>
             <title><![CDATA[Mt. Crawford]]></title>
-            <link>https://lostnotch.com/blog/mt-crawford</link>
-            <guid>https://lostnotch.com/blog/mt-crawford</guid>
+            <link>https://lostnotch.com/blog/mt-crawford/</link>
+            <guid>https://lostnotch.com/blog/mt-crawford/</guid>
             <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[It's just over 3100 feet high, but Mt. Crawford has some of the best views in the White Mountains. Crawford Notch is just to the northwest.]]></description>
             <content:encoded><![CDATA[<p>It's just over 3100 feet high, but Mt. Crawford has some of the best views in the White Mountains. Crawford Notch is just to the northwest.</p>
